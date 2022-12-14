@@ -1,5 +1,5 @@
 import pytest
-from script import changeUppercase
+from src.data.script import changeUppercase
 
 
 def test_for_uppercase():

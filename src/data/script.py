@@ -1,2 +1,2 @@
 def changeUppercase(someName):
-    return someName.upper()
+    return someName.upper() + "What"
